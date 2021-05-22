@@ -13,3 +13,13 @@ run/
 typings/
 .nyc_output/
 backend/config/config.default.js
+backend/node_modules
+backend/package-lock.json
+backend/logs
+backend/typings
+backend/run
+
+front/package-lock.json
+front/uview-ui
+front/unpackage
+front/node_modules
