@@ -27,6 +27,7 @@ npm run dev
 ```
 
 后端配置文件config/config.default.js
+需要配置好redis和mongoDB
 
 ```js
 /* eslint valid-jsdoc: "off" */
